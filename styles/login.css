@@ -1,0 +1,16 @@
+#login{
+   
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#quadrado {
+  margin: 0 auto;
+  width: 400px;
+  background-color: #d3cdcd;
+  border: 1px solid #000000;
+  padding: 20px;
+}

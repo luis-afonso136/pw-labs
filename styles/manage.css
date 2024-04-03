@@ -1,0 +1,37 @@
+#manage{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+  }
+  #quadrado {
+    margin: 0 auto;
+    width: 400px;
+    background-color: #d3cdcd;
+    border: 1px solid #000000;
+    padding: 20px;
+  
+  }
+
+  .botao_cor {
+
+    display: inline-block;
+    padding: 10px 50px;
+    margin: 0 auto;
+    text-decoration: none;   
+    background-color: rgb(4, 187, 13);
+    color: #ffefef; 
+    border: 1px solid #000000; 
+    border-radius: 5px; 
+    
+  }
+  .centralize{
+    text-align: center;
+  }
+ 
+ img{
+    
+    width: 150px;
+    padding-bottom: 20px;
+    padding-left: 125px;
+ }
